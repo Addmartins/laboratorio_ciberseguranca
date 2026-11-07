@@ -74,13 +74,10 @@ O inventário de rede é apenas informativo e mostra interfaces/endereço local:
 ./scripts/inventario-rede-lab.sh
 ```
 
-## Registro dos testes
-
-Preencha `docs/05-resultados-e-evidencias.md` com os comandos e resultados reais dos testes que você executou. Antes de publicar, remova senhas, tokens, cookies, IPs públicos, nomes de usuários reais e qualquer informação sensível.
 
 ## Segurança e autorização
 
-Este projeto é exclusivamente educacional. Execute testes somente em máquinas próprias ou com autorização explícita, dentro de uma rede isolada. Não utilize wordlists de vazamentos nem credenciais reais. Não publique credenciais válidas, arquivos de configuração com senhas ou evidências que exponham dados sensíveis.
+Este projeto é exclusivamente educacional. Executado somente testes em máquinas próprias, dentro de uma rede isolada. Não utilizei wordlists de vazamentos nem credenciais reais. Não publiquei credenciais válidas, arquivos de configuração com senhas ou evidências que exponham dados sensíveis.
 
 ## Referências
 
@@ -92,7 +89,3 @@ Este projeto é exclusivamente educacional. Execute testes somente em máquinas 
 - MariaDB: https://mariadb.org/
 - SMB protocol: https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-smb/
 - HTTP Semantics (RFC 9110): https://www.rfc-editor.org/rfc/rfc9110
-
-## Licença
-
-Material de documentação disponibilizado sob licença MIT. Ferramentas e projetos de terceiros mantêm suas próprias licenças.
