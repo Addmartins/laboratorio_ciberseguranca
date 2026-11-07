@@ -2,8 +2,6 @@
 
 Projeto prático desenvolvido como parte de um desafio da DIO. O objetivo é estudar auditoria de autenticação, força bruta (*Brute Force*), *Password Spraying*, enumeração de usuários e medidas de mitigação em um laboratório virtual autorizado.
 
-> **Escopo e transparência:** a preparação do Kali Linux, Apache, MariaDB e DVWA foi acompanhada e documentada. Os testes com Medusa e os protocolos FTP, HTTP/DVWA e SMB foram realizados pelo autor de forma independente. Os comandos exatos, parâmetros e resultados devem ser preenchidos a partir dos registros originais do autor; este repositório não inventa saídas nem credenciais descobertas.
-
 ## Objetivos
 
 - Preparar um laboratório virtual com Kali Linux e sistemas vulneráveis.
@@ -26,7 +24,7 @@ Projeto prático desenvolvido como parte de um desafio da DIO. O objetivo é est
 | MariaDB | Banco de dados |
 | Git | Versionamento |
 
-A topologia prevista utiliza uma rede isolada/Host-Only entre as VMs. Não exponha DVWA ou Metasploitable à internet.
+A topologia prevista utiliza uma rede isolada/Host-Only entre as VMs.
 
 ## Estrutura
 
