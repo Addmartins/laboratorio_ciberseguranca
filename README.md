@@ -77,7 +77,7 @@ O inventário de rede é apenas informativo e mostra interfaces/endereço local:
 
 ## Segurança e autorização
 
-Este projeto é exclusivamente educacional. Executado somente testes em máquinas próprias, dentro de uma rede isolada. Não utilizei wordlists de vazamentos nem credenciais reais. Não publiquei credenciais válidas, arquivos de configuração com senhas ou evidências que exponham dados sensíveis.
+Este projeto é exclusivamente educacional. Executado somente em testes em máquinas próprias, dentro de uma rede isolada. Não utilizei wordlists de vazamentos nem credenciais reais. Não publiquei credenciais válidas, arquivos de configuração com senhas ou evidências que exponham dados sensíveis.
 
 ## Referências
 
